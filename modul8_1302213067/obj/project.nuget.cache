@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "M1yC4FH/6K3OS2TJAsm9v2cOcMLROQ7W34zsonBL5P6sVvcrjKWbMq/ZG1c6q7qC1KXQds2a1KCfuOYWhJg9Ag==",
+  "dgSpecHash": "0I9A28Of7TI5e5dwO6/TTAI5lLh4Pko5/QLS2hmWeL04aQ+A7e1zNofigEpSfRZyQFzMsPCu6+eQU8sSUDNFJw==",
   "success": true,
   "projectFilePath": "D:\\Zaky\\Kuliah\\Semester 4\\Kontruksi Perangkat Lunak\\Praktikum\\modul8_1302213067\\modul8_1302213067\\modul8_1302213067.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\mzaky\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
